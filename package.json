@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "needle": "^2.8.0"
+  },
+  "name": "discord-user-api",
+  "description": "<div align=\"center\">\r   <p>\r     <a href=\"https://nodei.co/npm/discord-client-api/\"><img src=\"https://nodei.co/npm/discord-client-api.png?downloads=true&stars=true\" alt=\"NPM info\" /></a>\r   </p>\r </div>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuckerMan/discord-user-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuckerMan/discord-user-api/issues"
+  },
+  "homepage": "https://github.com/DuckerMan/discord-user-api#readme"
+}
